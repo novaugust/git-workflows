@@ -62,3 +62,8 @@ won't turn green.
 ### Working on issues blocked on pull requests
 
 - branch off your branch
+
+#### Things go right
+- you didn't need to change the original branch you branched off of
+  (aka, you got it right the first time)
+- rebase like normal (someone else changed the code problem)
