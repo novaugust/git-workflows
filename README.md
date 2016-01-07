@@ -69,3 +69,6 @@ won't turn green.
 - rebase like normal (someone else changed the code problem)
 
 #### Things go wrong
+
+- you had to change the branch you branched from.
+- temp branch dance with some cherry picking
