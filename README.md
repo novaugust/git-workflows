@@ -12,3 +12,9 @@ Close #1
 - some minor thing
 - woohoo
 ```
+
+## Branches
+
+- never commit to master
+- always work on Branches
+- `git checkout -b <branch_name>`
