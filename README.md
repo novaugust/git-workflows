@@ -67,3 +67,5 @@ won't turn green.
 - you didn't need to change the original branch you branched off of
   (aka, you got it right the first time)
 - rebase like normal (someone else changed the code problem)
+
+#### Things go wrong
