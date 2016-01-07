@@ -72,3 +72,12 @@ won't turn green.
 
 - you had to change the branch you branched from.
 - temp branch dance with some cherry picking
+
+
+## Tips
+
+### Oh shit I committed to master
+
+- it's cool, just checkout from there.
+- then go back to master...
+- and drop that commit `git reset --hard HEAD~1`
