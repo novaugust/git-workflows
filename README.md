@@ -43,7 +43,7 @@ Close #1, Close #3, Ref #10
 
 - `git commit --amend`
 
-### I solved a problem, but jeremy took forever to look at it.
+### I solved a problem, but someone else changed my code
 
 IE, someone else made changes where i made changes... and the button
 won't turn green.
@@ -53,3 +53,12 @@ won't turn green.
   2. `git pull upstream master`
   3. `git checkout <my_branch>`
   4. `git rebase master`
+
+### I forgot to add tests
+
+- see "i didn't solve the problem"
+
+
+### Working on issues blocked on pull requests
+
+- branch off your branch
