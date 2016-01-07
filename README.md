@@ -31,7 +31,7 @@ Close #1, Close #3, Ref #10
 
 ### I solved a problem
 
-- great!!!!!
+- Great!!!!!
 - there should be an issue for it
 - squash down to one commit
   `git rebase -i` (for interactive)
@@ -42,3 +42,14 @@ Close #1, Close #3, Ref #10
 ### I solved a problem, but wrong.
 
 - `git commit --amend`
+
+### I solved a problem, but jeremy took forever to look at it.
+
+IE, someone else made changes where i made changes... and the button
+won't turn green.
+
+- get caught up to master
+  1. `git checkout master`
+  2. `git pull upstream master`
+  3. `git checkout <my_branch>`
+  4. `git rebase master`
